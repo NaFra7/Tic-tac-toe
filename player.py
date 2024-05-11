@@ -1,4 +1,4 @@
-class Player:
-    def __init__(self):
-        self.moves = []
-
+# class Player:
+#     def __init__(self):
+#         self.moves = []
+#

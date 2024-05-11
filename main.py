@@ -7,7 +7,7 @@ game_over = False
 
 Player_1 = {"Symbol": "X", "Moves": []}
 Player_2 = {"Symbol": "O", "Moves": []}
-Computer = {"Symbol": "O", "Moves": []}
+# Computer = {"Symbol": "O", "Moves": []}
 
 game = GameManager()
 
